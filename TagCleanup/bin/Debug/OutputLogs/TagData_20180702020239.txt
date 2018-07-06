@@ -1,0 +1,325 @@
+Tag data checked in 150 files.
+Tag data check Started: 7/2/2018 2:02:36 PM
+Tag data check Ended: 7/2/2018 2:02:39 PM
+
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\01 - Fallaway.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\02 - Vicious (Parasite).mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\03 - Angelic.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\04 - What the Fuck.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\05 - When Will You Breathe.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\06 - Try Again.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\07 - Riptide.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\08 - Dragonfaith.mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\10 Years\2001 - Into the Half Moon\09 - Untitled [Bonus Track].mp3
+  > File contains other tag data. Other tags: #sec4.5 Music CD identifier
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\01 - Young Black Male.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\02 - Trapped.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\03 - Soulja's Story.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\04 - I Don't Give a Fuck.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\05 - Violent.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\06 - Words of Wisdom.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\07 - Something Wicked.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\08 - Crooked Ass Nigga.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\09 - If My Homie Calls.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\10 - Brenda's Got a Baby.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\11 - Tha' Lunatic.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\12 - Rebel of the Underground.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1991 - 2Pacalypse Now\13 - Part Time Mutha.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\01 - Holler If Ya Hear Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\02 - Pac's Theme (Interlude).mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\03 - Point the Finga.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\04 - Something 2 Die 4 (Interlude).mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\05 - Last Wordz.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\06 - Souljah's Revenge.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\07 - Peep Game.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\08 - Strugglin'.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\09 - Guess Who's Back.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\10 - Representin' 93.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\11 - Keep Ya Head Up.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\12 - Strictly 4 My N.I.G.G.A.Z..mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\13 - The Streetz R Deathrow.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\14 - I Get Around.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\15 - Papa'z Song.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1993 - Strictly 4 My N.I.G.G.A.Z\16 - 5 Deadly Venomz.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\01 - Intro.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\02 - If I Die 2 Nite.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\03 - Me Against the World.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\04 - So Many Tears.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\05 - Temptations.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\06 - Young Niggaz.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\07 - Heavy in the Game.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\08 - Lord Knows.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\09 - Dear Mama.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\10 - It Ain't Easy.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\11 - Can U Get Away.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\12 - Old School.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\13 - Fuck the World.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\14 - Death Around the Corner.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1995 - Me Against the World\15 - Outlaw.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.5 Music CD identifier,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\01 - Ambitionz Az a Ridah.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\02 - All About U.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\03 - Skandalouz.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\04 - Got My Mind Made Up.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\05 - How Do You Want It.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\06 - 2 of Amerikaz Most Wanted.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\07 - No More Pain.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\08 - Heartz of Men.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\09 - Life Goes On.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\10 - Only God Can Judge Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\11 - Tradin War Stories.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\12 - California Love (RMX) [Remix].mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\13 - I Ain't Mad at Cha.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 1\14 - What'z Ya Phone No..mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\01 - Can't C Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\02 - Shorty Wanna Be a Thug.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\03 - Holla at Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\04 - Wonda Why They Call U B____.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\05 - When We Ride.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\06 - Thug Passion.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\07 - Picture Me Rollin'.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\08 - Check Out Time.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\09 - Ratha Be Ya N____.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\10 - All Eyez on Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\11 - Run tha Streetz.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\12 - Ain't Hard 2 Find.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - All Eyez on Me\Disc 2\13 - Heaven Ain't Hard 2 Find.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\01 - IntroBomb First (My Second Reply).mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\02 - Hail Mary.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\03 - Toss It Up.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\04 - To Live & Die in L.A..mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\05 - Blasphemy.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\06 - Life of an Outlaw.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\07 - Just Like Daddy.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\08 - Krazy.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\09 - White Man'z World.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\10 - Me and My Girlfriend.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\11 - Hold Ya Head.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1996 - The Don Killuminati - The 7 Day Theory\12 - Against All Odds.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\01 - Keep Ya Head Up.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\02 - 2 of Amerikaz Most Wanted.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\03 - Temptations.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\04 - God Bless the Dead [#].mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\05 - Hail Mary.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\06 - Me Against the World.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\07 - How Do U Want It.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\08 - So Many Tears.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\09 - Unconditional Love [#].mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\10 - Trapped.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\11 - Life Goes On.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 1\12 - Hit 'Em Up.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\01 - Troublesome 96' [#].mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\02 - Brenda's Got a Baby.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\03 - I Ain't Mad at Cha.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\04 - I Get Around.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\05 - Changes [#].mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\06 - California Love [Original Version].mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\07 - Picture Me Rollin'.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\08 - How Long Will They Mourn Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\09 - Toss It Up.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\10 - Dear Mama.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\11 - All About U.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\12 - To Live & Die in L.A..mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Greatest Hits\Disc 2\13 - Heartz of Men.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\01 - Bury Me a G.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\02 - Don't Get It Twisted.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\03 - Shit Don't Stop.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\04 - Pour out a Little Liquor.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\05 - Stay True.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\06 - How Long Will They Mourn Me.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\07 - Under Pressure.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\08 - Street Fame.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\09 - Cradle to the Grave.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\1998 - Thug Life, Vol. 1\10 - Str8 Ballin'.mp3
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\01 - 2 of Amerikaz Most Wanted.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\02 - California Love [Original Mix].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\03 - So Many Tears.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\04 - I Ain't Mad at Cha.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\05 - How Do U Want It.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\06 - Trapped.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\07 - Changes.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\08 - Hail Mary.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\09 - Unconditional Love.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\10 - Dear Mama [Remix][#].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\11 - Resist the Temptation [#].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\01 - Definition of a Thug Nigga [from the Original Motion Picture Soundtrack.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\02 - Still Ballin' [Nitty Remix].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\03 - Until the End of Time [RP Remix].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\04 - Never Call U BcH Again.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\05 - They Don't Give a Fk About Us.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\06 - Keep Ya Head Up.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\07 - Ghetto Gospel.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\08 - Brenda's Got a Baby.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\09 - Thugz Mansion [2PAC Original].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\10 - When I Get Free.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\11 - Dopefiend's Diner [#].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+  > File contains other tag data. Other tags: #sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame,#sec4.28 Private frame
+

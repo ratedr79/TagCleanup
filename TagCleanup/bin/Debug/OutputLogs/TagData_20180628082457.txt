@@ -1,0 +1,25 @@
+Tag data checked in 10 files.
+Tag data check Started: 6/28/2018 8:24:55 AM
+Tag data check Ended: 6/28/2018 8:24:57 AM
+
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\01 - Critical Acclaim.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\02 - Almost Easy.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\03 - Scream.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\04 - Afterlife.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\05 - Gunslinger.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\06 - Unbound (The Wild Ride).mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\07 - Brompton Cocktail.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\08 - Lost.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\09 - A Little Piece of Heaven.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\10 - Dear God.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),#sec4.18 Popularimeter,TDRC,#WXXX User defined URL link frame
+

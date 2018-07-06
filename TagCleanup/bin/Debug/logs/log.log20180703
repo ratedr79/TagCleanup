@@ -1,0 +1,153 @@
+2018-07-03 21:36:30,999 INFO [1] Program - Loading ignore directories...
+2018-07-03 21:36:31,519 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:36:31,839 INFO [1] Program - Loading specialty albums...
+2018-07-03 21:36:33,333 INFO [1] Program - Resetting database...
+2018-07-03 21:36:38,811 INFO [1] Program - Beginning loading directories...
+2018-07-03 21:36:38,823 INFO [1] Program - Loaded 12 files and directories.
+2018-07-03 21:36:38,840 INFO [1] Program - Beginning scanning files and directories.
+2018-07-03 21:36:38,848 INFO [1] Program - Running with maximum number of threads: 8.
+2018-07-03 21:39:43,919 ERROR [9] Program - 
+System.IO.IOException: The process cannot access the file 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\01 - Feel the Breeze.mp3' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access)
+   at TagLib.File.LocalFileAbstraction.get_WriteStream()
+   at TagLib.File.set_Mode(AccessMode value)
+   at TagLib.NonContainer.File.Save()
+   at TagCleanup.Mp3File.GetTags() in B:\Dennis\Projects\MP3TagEdit\TagCleanup\TagCleanup\Mp3File.cs:line 96
+2018-07-03 21:41:32,367 INFO [1] Program - Loading ignore directories...
+2018-07-03 21:41:32,907 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:41:33,285 INFO [1] Program - Loading specialty albums...
+2018-07-03 21:41:34,558 INFO [1] Program - Resetting database...
+2018-07-03 21:41:39,339 INFO [1] Program - Beginning loading directories...
+2018-07-03 21:41:39,354 INFO [1] Program - Loaded 12 files and directories.
+2018-07-03 21:41:39,360 INFO [1] Program - Beginning scanning files and directories.
+2018-07-03 21:41:39,371 INFO [1] Program - Running with maximum number of threads: 8.
+2018-07-03 21:41:46,379 INFO [1] Program - Scaned 11 files.
+2018-07-03 21:41:46,394 INFO [1] Program - Scaned 1 albums.
+2018-07-03 21:41:46,402 INFO [1] Program - Encountered 0 errors.
+2018-07-03 21:41:46,438 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:41:46,470 INFO [1] Program - Loading additional album various artist...
+2018-07-03 21:41:46,814 INFO [1] Program - Checking for tag errors...
+2018-07-03 21:41:46,914 INFO [1] Program - Running with maximum number of threads: 4.
+2018-07-03 21:41:46,928 INFO [1] Program - Loading album information.
+2018-07-03 21:41:47,119 INFO [1] Program - Checking tag data.
+2018-07-03 21:53:16,941 INFO [1] Program - Loading ignore directories...
+2018-07-03 21:53:17,481 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:53:17,877 INFO [1] Program - Loading specialty albums...
+2018-07-03 21:53:19,369 INFO [1] Program - Resetting database...
+2018-07-03 21:53:23,984 INFO [1] Program - Beginning loading directories...
+2018-07-03 21:53:24,000 INFO [1] Program - Loaded 23 files and directories.
+2018-07-03 21:53:24,009 INFO [1] Program - Beginning scanning files and directories.
+2018-07-03 21:53:24,016 INFO [1] Program - Running with maximum number of threads: 8.
+2018-07-03 21:53:24,877 INFO [11] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\04 - What a Life.mp3'.
+2018-07-03 21:53:24,877 INFO [10] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\02 - I Don't Believe You.mp3'.
+2018-07-03 21:53:24,877 INFO [8] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\01 - Feel the Breeze.mp3'.
+2018-07-03 21:53:24,877 INFO [9] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\03 - Empty Pages.mp3'.
+2018-07-03 21:53:25,106 INFO [12] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\05 - Secret Agent.mp3'.
+2018-07-03 21:53:27,119 INFO [13] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\06 - Weight Is My Soul.mp3'.
+2018-07-03 21:53:27,717 INFO [14] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\07 - Love and Other Bruises.mp3'.
+2018-07-03 21:53:29,565 INFO [11] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\08 - It's Not Easy.mp3'.
+2018-07-03 21:53:29,792 INFO [12] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\09 - We Are All Alone.mp3'.
+2018-07-03 21:53:29,770 INFO [10] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\10 - Strangers in Love.mp3'.
+2018-07-03 21:53:29,843 INFO [9] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\11 - Ain't It a Shame.mp3'.
+2018-07-03 21:53:30,016 INFO [1] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\01 - Love and Other Bruises.mp3'.
+2018-07-03 21:53:30,117 INFO [14] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\02 - What a Life, Pts. 1-2.mp3'.
+2018-07-03 21:53:30,244 INFO [8] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\03 - Feel the Breeze.mp3'.
+2018-07-03 21:53:30,266 INFO [13] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\04 - Who Will Love Me Now.mp3'.
+2018-07-03 21:53:30,740 INFO [11] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\05 - Do It Again.mp3'.
+2018-07-03 21:53:31,192 INFO [9] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\06 - End of the Line.mp3'.
+2018-07-03 21:53:31,622 INFO [10] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\07 - Ready for You.mp3'.
+2018-07-03 21:53:31,622 INFO [12] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\08 - Empty Pages.mp3'.
+2018-07-03 21:53:31,700 INFO [1] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\09 - Does It Matter.mp3'.
+2018-07-03 21:53:32,176 INFO [13] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\10 - That's How the Whole Thing Started.mp3'.
+2018-07-03 21:53:34,090 INFO [1] Program - Scaned 21 files.
+2018-07-03 21:53:34,102 INFO [1] Program - Scaned 2 albums.
+2018-07-03 21:53:34,109 INFO [1] Program - Encountered 0 errors.
+2018-07-03 21:53:34,152 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:53:34,186 INFO [1] Program - Loading additional album various artist...
+2018-07-03 21:53:34,544 INFO [1] Program - Checking for tag errors...
+2018-07-03 21:53:34,670 INFO [1] Program - Running with maximum number of threads: 4.
+2018-07-03 21:53:34,976 INFO [1] Program - Loading album information.
+2018-07-03 21:53:35,316 INFO [1] Program - Checking tag data.
+2018-07-03 21:55:52,016 INFO [1] Program - Loading ignore directories...
+2018-07-03 21:55:52,488 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:55:52,801 INFO [1] Program - Loading specialty albums...
+2018-07-03 21:55:53,976 INFO [1] Program - Resetting database...
+2018-07-03 21:55:58,088 INFO [1] Program - Beginning loading directories...
+2018-07-03 21:55:58,107 INFO [1] Program - Loaded 23 files and directories.
+2018-07-03 21:55:58,118 INFO [1] Program - Beginning scanning files and directories.
+2018-07-03 21:55:58,126 INFO [1] Program - Running with maximum number of threads: 8.
+2018-07-03 21:55:59,080 INFO [9] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\02 - I Don't Believe You.mp3'.
+2018-07-03 21:55:59,080 INFO [10] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\03 - Empty Pages.mp3'.
+2018-07-03 21:55:59,080 INFO [11] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\04 - What a Life.mp3'.
+2018-07-03 21:55:59,080 INFO [8] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\01 - Feel the Breeze.mp3'.
+2018-07-03 21:55:59,105 INFO [9] Program - Frame count before: 17.
+2018-07-03 21:55:59,117 INFO [10] Program - Frame count before: 17.
+2018-07-03 21:55:59,167 INFO [11] Program - Frame count before: 17.
+2018-07-03 21:55:59,223 INFO [12] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\05 - Secret Agent.mp3'.
+2018-07-03 21:55:59,224 INFO [8] Program - Frame count before: 17.
+2018-07-03 21:55:59,276 INFO [12] Program - Frame count before: 17.
+2018-07-03 21:55:59,443 INFO [9] Program - Frame count after: 8.
+2018-07-03 21:55:59,447 INFO [10] Program - Frame count after: 8.
+2018-07-03 21:55:59,465 INFO [8] Program - Frame count after: 8.
+2018-07-03 21:55:59,463 INFO [11] Program - Frame count after: 8.
+2018-07-03 21:55:59,481 INFO [12] Program - Frame count after: 8.
+2018-07-03 21:56:00,300 INFO [13] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\06 - Weight Is My Soul.mp3'.
+2018-07-03 21:56:00,700 INFO [13] Program - Frame count before: 17.
+2018-07-03 21:56:01,065 INFO [13] Program - Frame count after: 8.
+2018-07-03 21:56:01,765 INFO [14] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\07 - Love and Other Bruises.mp3'.
+2018-07-03 21:56:01,855 INFO [14] Program - Frame count before: 17.
+2018-07-03 21:56:02,549 INFO [14] Program - Frame count after: 8.
+2018-07-03 21:56:04,005 INFO [9] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\08 - It's Not Easy.mp3'.
+2018-07-03 21:56:04,005 INFO [10] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\09 - We Are All Alone.mp3'.
+2018-07-03 21:56:04,097 INFO [13] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\10 - Strangers in Love.mp3'.
+2018-07-03 21:56:04,097 INFO [14] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1976 - Air Supply [1976]\11 - Ain't It a Shame.mp3'.
+2018-07-03 21:56:04,314 INFO [9] Program - Frame count before: 17.
+2018-07-03 21:56:04,277 INFO [12] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\01 - Love and Other Bruises.mp3'.
+2018-07-03 21:56:04,323 INFO [10] Program - Frame count before: 17.
+2018-07-03 21:56:04,333 INFO [13] Program - Frame count before: 17.
+2018-07-03 21:56:04,340 INFO [14] Program - Frame count before: 17.
+2018-07-03 21:56:04,355 INFO [12] Program - Frame count before: 17.
+2018-07-03 21:56:04,436 INFO [11] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\02 - What a Life, Pts. 1-2.mp3'.
+2018-07-03 21:56:04,444 INFO [11] Program - Frame count before: 17.
+2018-07-03 21:56:04,462 INFO [1] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\04 - Who Will Love Me Now.mp3'.
+2018-07-03 21:56:04,460 INFO [8] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\03 - Feel the Breeze.mp3'.
+2018-07-03 21:56:04,549 INFO [1] Program - Frame count before: 16.
+2018-07-03 21:56:04,557 INFO [8] Program - Frame count before: 17.
+2018-07-03 21:56:04,595 INFO [9] Program - Frame count after: 8.
+2018-07-03 21:56:04,611 INFO [13] Program - Frame count after: 8.
+2018-07-03 21:56:04,613 INFO [12] Program - Frame count after: 8.
+2018-07-03 21:56:04,628 INFO [10] Program - Frame count after: 8.
+2018-07-03 21:56:04,613 INFO [14] Program - Frame count after: 8.
+2018-07-03 21:56:05,286 INFO [13] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\05 - Do It Again.mp3'.
+2018-07-03 21:56:05,703 INFO [10] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\06 - End of the Line.mp3'.
+2018-07-03 21:56:05,747 INFO [13] Program - Frame count before: 16.
+2018-07-03 21:56:05,756 INFO [10] Program - Frame count before: 16.
+2018-07-03 21:56:05,779 INFO [11] Program - Frame count after: 8.
+2018-07-03 21:56:05,790 INFO [14] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\07 - Ready for You.mp3'.
+2018-07-03 21:56:05,809 INFO [9] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\08 - Empty Pages.mp3'.
+2018-07-03 21:56:06,108 INFO [9] Program - Frame count before: 17.
+2018-07-03 21:56:05,809 INFO [12] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\09 - Does It Matter.mp3'.
+2018-07-03 21:56:06,068 INFO [14] Program - Frame count before: 16.
+2018-07-03 21:56:06,106 INFO [8] Program - Frame count after: 8.
+2018-07-03 21:56:06,112 INFO [1] Program - Frame count after: 7.
+2018-07-03 21:56:06,129 INFO [12] Program - Frame count before: 16.
+2018-07-03 21:56:06,148 INFO [13] Program - Frame count after: 7.
+2018-07-03 21:56:06,143 INFO [11] Program - Removing extra frames from 'C:\Users\Dennis\Music\MP3s\Air Supply\1977 - Love & Other Bruises\10 - That's How the Whole Thing Started.mp3'.
+2018-07-03 21:56:07,061 INFO [11] Program - Frame count before: 16.
+2018-07-03 21:56:07,073 INFO [10] Program - Frame count after: 7.
+2018-07-03 21:56:07,585 INFO [14] Program - Frame count after: 7.
+2018-07-03 21:56:07,590 INFO [12] Program - Frame count after: 7.
+2018-07-03 21:56:07,589 INFO [9] Program - Frame count after: 8.
+2018-07-03 21:56:08,794 INFO [11] Program - Frame count after: 7.
+2018-07-03 21:56:09,150 INFO [1] Program - Scaned 21 files.
+2018-07-03 21:56:09,159 INFO [1] Program - Scaned 2 albums.
+2018-07-03 21:56:09,168 INFO [1] Program - Encountered 0 errors.
+2018-07-03 21:56:09,202 INFO [1] Program - Loading album subdirectories...
+2018-07-03 21:56:09,231 INFO [1] Program - Loading additional album various artist...
+2018-07-03 21:56:09,577 INFO [1] Program - Checking for tag errors...
+2018-07-03 21:56:09,689 INFO [1] Program - Running with maximum number of threads: 4.
+2018-07-03 21:56:09,695 INFO [1] Program - Loading album information.
+2018-07-03 21:56:09,998 INFO [1] Program - Checking tag data.

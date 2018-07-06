@@ -1,0 +1,107 @@
+Tag data checked in 202 files.
+Tag data check Started: 6/25/2018 3:38:05 PM
+Tag data check Ended: 6/25/2018 3:38:26 PM
+
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\01 - 2 of Amerikaz Most Wanted.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\02 - California Love [Original Mix].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\03 - So Many Tears.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\04 - I Ain't Mad at Cha.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\05 - How Do U Want It.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\06 - Trapped.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\07 - Changes.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\08 - Hail Mary.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\09 - Unconditional Love.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\10 - Dear Mama [Remix][#].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 1\11 - Resist the Temptation [#].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 1 - Thug; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\01 - Definition of a Thug Nigga [from the Original Motion Picture Soundtrack.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\02 - Still Ballin' [Nitty Remix].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\03 - Until the End of Time [RP Remix].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\04 - Never Call U BcH Again.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\05 - They Don't Give a Fk About Us.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\06 - Keep Ya Head Up.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\07 - Ghetto Gospel.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\08 - Brenda's Got a Baby.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\09 - Thugz Mansion [2PAC Original].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\10 - When I Get Free.mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\2Pac\2007 - The Best of 2Pac\Disc 2\11 - Dopefiend's Diner [#].mp3
+  > Album tag does not match folder name. Tag: 2007 - The Best of 2Pac, Pt. 2 - Life; Folder: 2007 - The Best of 2Pac
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\01 - Eminem - Lose Yourself.mp3
+  > File tag does not match file name. Tag: 01 - Lose Yourself.mp3; File: 01 - Eminem - Lose Yourself.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\02 - 50 CentEminemObie Trice - Love Me.mp3
+  > File tag does not match file name. Tag: 02 - Love Me.mp3; File: 02 - 50 CentEminemObie Trice - Love Me.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\03 - Eminem - 8 Mile.mp3
+  > File tag does not match file name. Tag: 03 - 8 Mile.mp3; File: 03 - Eminem - 8 Mile.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\04 - Obie Trice - Adrenaline Rush.mp3
+  > File tag does not match file name. Tag: 04 - Adrenaline Rush.mp3; File: 04 - Obie Trice - Adrenaline Rush.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\05 - 50 Cent - Places to Go.mp3
+  > File tag does not match file name. Tag: 05 - Places to Go.mp3; File: 05 - 50 Cent - Places to Go.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\06 - D12 - Rap Game.mp3
+  > File tag does not match file name. Tag: 06 - Rap Game.mp3; File: 06 - D12 - Rap Game.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\07 - FreewayJay-Z - 8 Miles and Runnin'.mp3
+  > File tag does not match file name. Tag: 07 - 8 Miles and Runnin'.mp3; File: 07 - FreewayJay-Z - 8 Miles and Runnin'.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\08 - Xzibit - Spit Shine.mp3
+  > File tag does not match file name. Tag: 08 - Spit Shine.mp3; File: 08 - Xzibit - Spit Shine.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\09 - Macy Gray - Time of My Life.mp3
+  > File tag does not match file name. Tag: 09 - Time of My Life.mp3; File: 09 - Macy Gray - Time of My Life.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\10 - Nas - U Wanna Be Me.mp3
+  > File tag does not match file name. Tag: 10 - U Wanna Be Me.mp3; File: 10 - Nas - U Wanna Be Me.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\11 - 50 Cent - Wanksta.mp3
+  > File tag does not match file name. Tag: 11 - Wanksta.mp3; File: 11 - 50 Cent - Wanksta.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\12 - BoomkatTaryn Manning - Wasting My Time.mp3
+  > File tag does not match file name. Tag: 12 - Wasting My Time.mp3; File: 12 - BoomkatTaryn Manning - Wasting My Time.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\13 - Rakim - R.A.K.I.M..mp3
+  > File tag does not match file name. Tag: 13 - R.A.K.I.M..mp3; File: 13 - Rakim - R.A.K.I.M..mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\14 - Young Zee - That's My N Fo' Real.mp3
+  > File tag does not match file name. Tag: 14 - That's My N Fo' Real.mp3; File: 14 - Young Zee - That's My N Fo' Real.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\15 - Gang Starr - Battle.mp3
+  > File tag does not match file name. Tag: 15 - Battle.mp3; File: 15 - Gang Starr - Battle.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack\8 Mile\16 - Eminem - Rabbit Run.mp3
+  > File tag does not match file name. Tag: 16 - Rabbit Run.mp3; File: 16 - Eminem - Rabbit Run.mp3
+  > Album tag does not match folder name. Tag: 2002 - 8 Mile; Folder: 8 Mile
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Starset\2014 - Daytrotter Studio [Nov. 14, 2014]\01 - Welcome to Daytrotter.mp3
+  > Album tag does not match folder name. Tag: 2015 - Daytrotter Studio [Nov. 14, 2014]; Folder: 2014 - Daytrotter Studio [Nov. 14, 2014]
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Starset\2014 - Daytrotter Studio [Nov. 14, 2014]\02 - Antigravity.mp3
+  > Album tag does not match folder name. Tag: 2015 - Daytrotter Studio [Nov. 14, 2014]; Folder: 2014 - Daytrotter Studio [Nov. 14, 2014]
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Starset\2014 - Daytrotter Studio [Nov. 14, 2014]\03 - Space Oddity.mp3
+  > Album tag does not match folder name. Tag: 2015 - Daytrotter Studio [Nov. 14, 2014]; Folder: 2014 - Daytrotter Studio [Nov. 14, 2014]
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Starset\2014 - Daytrotter Studio [Nov. 14, 2014]\04 - Halo.mp3
+  > Album tag does not match folder name. Tag: 2015 - Daytrotter Studio [Nov. 14, 2014]; Folder: 2014 - Daytrotter Studio [Nov. 14, 2014]
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Starset\2014 - Daytrotter Studio [Nov. 14, 2014]\05 - My Demons.mp3
+  > Album tag does not match folder name. Tag: 2015 - Daytrotter Studio [Nov. 14, 2014]; Folder: 2014 - Daytrotter Studio [Nov. 14, 2014]
+

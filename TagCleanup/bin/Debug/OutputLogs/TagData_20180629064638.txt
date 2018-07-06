@@ -1,0 +1,75 @@
+Tag data checked in 35 files.
+Tag data check Started: 6/29/2018 6:46:34 AM
+Tag data check Ended: 6/29/2018 6:46:38 AM
+
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\01 - Critical Acclaim.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\02 - Almost Easy.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\03 - Scream.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\04 - Afterlife.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\05 - Gunslinger.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\06 - Unbound (The Wild Ride).mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\07 - Brompton Cocktail.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\08 - Lost.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\09 - A Little Piece of Heaven.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Avenged Sevenfold\2007 - Avenged Sevenfold\10 - Dear God.mp3
+  > File contains other tag data. Other tags: #TLAN Language(s),#sec4.18 Popularimeter,TDRC,#WXXX User defined URL link frame
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\01 - Soundtrack - Prologue.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\02 - Soundtrack - Jet Song.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\03 - Soundtrack - Something's Coming.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\04 - Soundtrack - The Dance at the Gym.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\05 - Soundtrack - Maria.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\06 - Soundtrack - Tonight.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\07 - Soundtrack - America.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\08 - Soundtrack - Cool.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\09 - Soundtrack - One Hand, One Heart.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\10 - Soundtrack - Tonight [Quintet and Chorus].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\11 - Soundtrack - The Rumble.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\12 - Soundtrack - I Feel Pretty.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\13 - Soundtrack - Somewhere (Ballet).mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\14 - Soundtrack - Gee, Officer Krupke.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\15 - Soundtrack - A Boy Like ThatI Have a Love.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\16 - Soundtrack - Finale.mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\17 - Soundtrack - Prologue (Allegro Moderate) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\18 - Soundtrack - Somewhere (Adagio) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\19 - Soundtrack - Scherzo (Vivace E Leggiero) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\20 - Soundtrack - Mambo (Meno Presto) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\21 - Soundtrack - Cha-Cha (Andantino con Grazia) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\22 - Soundtrack - Meeting Scene (Meno Mosso) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\23 - Soundtrack - Cool Fugue (Allegretto) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\24 - Soundtrack - Rumble (Motto Allegro) [].mp3
+  > File contains other tag data. Other tags: TDRC
+ERROR IN FILE C:\Users\Dennis\Music\MP3s\Soundtrack [Musicals]\West Side Story [Bonus Tracks] [Original Broadway Cast]\25 - Soundtrack - Finale (Adagio) [].mp3
+  > File contains other tag data. Other tags: TDRC
+
