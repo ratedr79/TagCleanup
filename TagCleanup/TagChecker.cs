@@ -490,7 +490,8 @@ namespace TagCleanup
 
         private string ReplaceInvalidPathCharacters(string name)
         {
-            name = name.Replace(":", " -");
+            name = name.Replace(": ", " -");
+            name = name.Replace(":", "");
             name = name.Replace("/", "-");
             name = name.Replace("?", "");
             name = name.Replace("\"", "");
