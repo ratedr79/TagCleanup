@@ -13,6 +13,8 @@ namespace TagCleanup.Data
         private bool _allAlbumNamesMatch;
         private bool _allDiscNumbersMatch;
         private bool _allAlbumArtistsMatch;
+        private bool _allAlbumGenresMatch;
+        private bool _allAlbumYearsMatch;
         private bool _disposeDB;
         private bool _hasAlbumArt;
         private bool _validAlbumArt;
@@ -24,6 +26,8 @@ namespace TagCleanup.Data
         public bool AllAlbumNamesMatch { get { return _allAlbumNamesMatch; } }
         public bool AllDiscNumbersMatch { get { return _allDiscNumbersMatch; } }
         public bool AllAlbumArtistsMatch { get { return _allAlbumArtistsMatch; } }
+        public bool AllAlbumGenresMatch { get { return _allAlbumGenresMatch; } }
+        public bool AllAlbumYearsMatch { get { return _allAlbumYearsMatch; } }
         public bool HasAlbumArt { get { return _hasAlbumArt; } }
         public bool ValidAlbumArt { get { return _validAlbumArt; } }
 
@@ -67,6 +71,8 @@ namespace TagCleanup.Data
                     _allAlbumNamesMatch = !subFiles.Any(sf => sf.Album != firstFile.Album);
                     _allDiscNumbersMatch = !subFiles.Any(sf => sf.DiscNumber != firstFile.DiscNumber);
                     _allAlbumArtistsMatch = !subFiles.Any(sf => sf.AlbumArtist != firstFile.AlbumArtist);
+                    _allAlbumGenresMatch = !subFiles.Any(sf => sf.Genre != firstFile.Genre);
+                    _allAlbumYearsMatch = !subFiles.Any(sf => sf.Year != firstFile.Year);
                 }
 
                 FileInfo albumArt = new FileInfo(Path.Combine(BaseAlbum.FolderPath, "Folder.jpg"));

@@ -336,6 +336,16 @@ namespace TagCleanup
                     LogTagError(mediaFile, $"Other tracks in this folder have different album artists. Album path: {Path.GetDirectoryName(mediaFile.FilePath)}");
                 }
 
+                if (!album.AllAlbumGenresMatch)
+                {
+                    LogTagError(mediaFile, $"Other tracks in this folder have different genres. Album path: {Path.GetDirectoryName(mediaFile.FilePath)}");
+                }
+
+                if (!album.AllAlbumYearsMatch)
+                {
+                    LogTagError(mediaFile, $"Other tracks in this folder have different years. Album path: {Path.GetDirectoryName(mediaFile.FilePath)}");
+                }
+
                 if (!album.HasAlbumArt)
                 {
                     LogTagError(mediaFile, $"Album does not have album art. Album: {album.BaseAlbum.FolderPath}");
