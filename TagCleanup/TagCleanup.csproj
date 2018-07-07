@@ -112,6 +112,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\AlbumArtExceptions.cs" />
+    <Compile Include="Data\AlbumYearExceptions.cs" />
     <Compile Include="Data\AdditionalVariousArtistsAlbum.cs" />
     <Compile Include="Data\AlbumDetailed.cs" />
     <Compile Include="Data\AlbumSubDirectories.cs" />
@@ -150,6 +152,14 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="XML\AlbumArtExceptions.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="XML\AlbumYearExceptions.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="XML\AlbumSubDirectories.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

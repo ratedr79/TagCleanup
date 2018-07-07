@@ -24,11 +24,15 @@ namespace TagCleanup
         private ConcurrentBag<string> SpecialtyAlbums { get; set; }
         private ConcurrentBag<string> AlbumSubDirectories { get; set; }
         private ConcurrentBag<string> AdditionalVariousArtistsAlbums { get; set; }
+        private ConcurrentBag<string> AlbumArtExceptions { get; set; }
+        private ConcurrentBag<string> AlbumYearExceptions { get; set; }
         public DateTime ScanStart { get; set; }
         public DateTime ScanEnd { get; set; }
 
         private static readonly string SpecialtyAlbumFile = Path.Combine(Program.ExecutionPath, "XML", "SpecialtyAlbumFolders.xml");
         private static readonly string AlbumSubDirectoriesFile = Path.Combine(Program.ExecutionPath, "XML", "AlbumSubDirectories.xml");
+        private static readonly string AlbumArtExceptionsFile = Path.Combine(Program.ExecutionPath, "XML", "AlbumArtExceptions.xml");
+        private static readonly string AlbumYearExceptionsFile = Path.Combine(Program.ExecutionPath, "XML", "AlbumYearExceptions.xml");
         private static readonly string AdditionalVariousArtistsAlbumFile = Path.Combine(Program.ExecutionPath, "XML", "AdditionalVariousArtistsAlbum.xml");
         private static readonly string ParallelThreads = ConfigurationManager.AppSettings["TagDataThreads"];
 
@@ -43,9 +47,61 @@ namespace TagCleanup
             SpecialtyAlbums = new ConcurrentBag<string>();
             AlbumSubDirectories = new ConcurrentBag<string>();
             AdditionalVariousArtistsAlbums = new ConcurrentBag<string>();
+            AlbumArtExceptions = new ConcurrentBag<string>();
+            AlbumYearExceptions = new ConcurrentBag<string>();
             LoadSpecialtyAlbums();
             LoadAlbumSubDirectories();
             LoadAdditionalVariousArtistsAlbums();
+            LoadAlbumArtExceptions();
+            LoadAlbumYearExceptions();
+        }
+
+        private void LoadAlbumYearExceptions()
+        {
+            if (File.Exists(AlbumYearExceptionsFile))
+            {
+                Logger.Info("Loading album year exceptions...");
+
+                Data.AlbumYearExceptions.AlbumYearExceptions albumYearExceptions = null;
+
+                XmlSerializer serializer = new XmlSerializer(typeof(Data.AlbumYearExceptions.AlbumYearExceptions));
+                using (StreamReader reader = new StreamReader(AlbumYearExceptionsFile))
+                {
+                    albumYearExceptions = (Data.AlbumYearExceptions.AlbumYearExceptions)serializer.Deserialize(reader);
+                }
+
+                if (albumYearExceptions.Items != null)
+                {
+                    foreach (var folder in albumYearExceptions.Items)
+                    {
+                        AlbumYearExceptions.Add(folder.Value);
+                    }
+                }
+            }
+        }
+
+        private void LoadAlbumArtExceptions()
+        {
+            if (File.Exists(AlbumArtExceptionsFile))
+            {
+                Logger.Info("Loading album art exceptions...");
+
+                Data.AlbumArtExceptions.AlbumArtExceptions albumArtExceptions = null;
+
+                XmlSerializer serializer = new XmlSerializer(typeof(Data.AlbumArtExceptions.AlbumArtExceptions));
+                using (StreamReader reader = new StreamReader(AlbumArtExceptionsFile))
+                {
+                    albumArtExceptions = (Data.AlbumArtExceptions.AlbumArtExceptions)serializer.Deserialize(reader);
+                }
+
+                if (albumArtExceptions.Items != null)
+                {
+                    foreach (var folder in albumArtExceptions.Items)
+                    {
+                        AlbumArtExceptions.Add(folder.Value);
+                    }
+                }
+            }
         }
 
         private void LoadAdditionalVariousArtistsAlbums()
@@ -341,12 +397,12 @@ namespace TagCleanup
                     LogTagError(mediaFile, $"Other tracks in this folder have different genres. Album path: {Path.GetDirectoryName(mediaFile.FilePath)}");
                 }
 
-                if (!album.AllAlbumYearsMatch)
+                if (!album.AllAlbumYearsMatch && !AlbumYearExceptions.Contains(Path.GetDirectoryName(mediaFile.FilePath)))
                 {
                     LogTagError(mediaFile, $"Other tracks in this folder have different years. Album path: {Path.GetDirectoryName(mediaFile.FilePath)}");
                 }
 
-                if (!album.HasAlbumArt)
+                if (!album.HasAlbumArt && !AlbumArtExceptions.Contains(Path.GetDirectoryName(mediaFile.FilePath)))
                 {
                     LogTagError(mediaFile, $"Album does not have album art. Album: {album.BaseAlbum.FolderPath}");
                 }
