@@ -498,7 +498,7 @@ namespace TagCleanup
             name = name.Replace("<", "-");
             name = name.Replace(">", "-");
 
-            foreach (char c in Path.GetInvalidPathChars())
+            foreach (char c in Path.GetInvalidPathChars().Where(c => c.ToString() != "."))
             {
                 name = name.Replace(c.ToString(), "");
             }
