@@ -229,7 +229,7 @@ namespace TagCleanup
                     Logger.Info($"Scanned {DirectoriesProcessed} albums, skipped {DirectoriesSkipped} directories.");
                     Logger.Info($"Encountered {Errors.Count} errors.");
 
-                    Logger.Info($"Cleanign up database...");
+                    Logger.Info($"Cleaning up database...");
 
                     using (var db = new MySQLContext(Logger))
                     {
