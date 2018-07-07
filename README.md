@@ -1,5 +1,5 @@
 # TagCleanup
-Using taglib-sharp for ID3 information. Had to make a small change to make the ID3 v2 frames publically accessible.
+Using taglib-sharp for ID3 information. Had to make a small change to make the ID3 v2 frames publicly accessible.
 This allowed me to check the frames and also remove specific ones not needed. For instance, PRIV, MCID (which is barely ever used right),
 GEOB and Windows Media player frames. Most items are configured in the app.config.
 
