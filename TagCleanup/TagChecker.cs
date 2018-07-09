@@ -406,7 +406,7 @@ namespace TagCleanup
                 {
                     LogTagError(mediaFile, $"Album does not have album art. Album: {album.BaseAlbum.FolderPath}");
                 }
-                else if (!album.ValidAlbumArt)
+                else if (album.HasAlbumArt && !album.ValidAlbumArt)
                 {
                     LogTagError(mediaFile, $"Album does not have a valid JPG file. Album: {album.BaseAlbum.FolderPath}");
                 }
