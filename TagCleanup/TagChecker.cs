@@ -493,6 +493,7 @@ namespace TagCleanup
             name = name.Replace(": ", " - ");
             name = name.Replace(":", "");
             name = name.Replace("/", "-");
+            name = name.Replace("? ", " - ");
             name = name.Replace("?", "");
             name = name.Replace("\"", "");
             name = name.Replace("*", "");
