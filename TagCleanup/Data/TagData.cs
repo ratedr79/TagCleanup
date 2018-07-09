@@ -62,7 +62,7 @@ namespace TagCleanup.Data
             DiscCount = id3Tag.DiscCount != 0 ? id3Tag.DiscCount.ToString() : "";
             DiscNumberAndCount = "";
             TrackNumber = id3Tag.Track.ToString();
-            Year = id3Tag.Year.ToString();
+            Year = id3Tag.Year == 0 ? "0000" : id3Tag.Year.ToString();
             Genre = id3Tag.JoinedGenres;
             Title = id3Tag.Title;
             ContainsOtherTags = !string.IsNullOrEmpty(id3Tag.Comment);
@@ -80,7 +80,7 @@ namespace TagCleanup.Data
                                     ? id3Tag.Frames.First(f => f.FrameId.ToString() == "TPOS").ToString()
                                     : "";
             TrackNumber = id3Tag.Track.ToString();
-            Year = id3Tag.Year.ToString();
+            Year = id3Tag.Year == 0 ? "0000" : id3Tag.Year.ToString();
             Genre = id3Tag.JoinedGenres;
             Title = id3Tag.Title;
             ContainsOtherTags = id3Tag.Frames.Any(f => !ValidFrameNames.Contains(f.FrameId.ToString()));
