@@ -351,8 +351,9 @@ namespace TagCleanup
                 }
 
                 var album = new Repository.Album(Logger, directory, SpecialtyAlbums, AlbumSubDirectories);
+                var existsInDb = album.Exists();
 
-                if (album.Changed > LastScan && album.Exists())
+                if (album.Changed > LastScan || !existsInDb)
                 {
                     album.LoadData();
                     album.AddOrUpdate();
@@ -411,8 +412,9 @@ namespace TagCleanup
                 }
 
                 var mediaFile = new Repository.MediaFile(Logger, file, FramesToRemove);
+                bool existsInDB = mediaFile.Exists();
 
-                if (mediaFile.Changed > LastScan && mediaFile.Exists())
+                if (mediaFile.Changed > LastScan || !existsInDB)
                 {
                     mediaFile.LoadTagData();
                     mediaFile.AddOrUpdate();

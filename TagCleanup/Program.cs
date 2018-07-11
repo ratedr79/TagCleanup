@@ -91,10 +91,16 @@ namespace TagCleanup
                 {
                     Console.WriteLine("");
 
+                    int processedFiles = 0;
                     List<string> processedAlbums = new List<string>();
                     SortedList<string, string> sorted = new SortedList<string, string>();
 
-                    Logger.Info("Cleaning up database...");
+                    bool deleteFromDb = bool.Parse(ConfigurationManager.AppSettings["DeleteErroredItemsFromDatabase"] ?? "false");
+
+                    if (deleteFromDb)
+                    {
+                        Logger.Info("Cleaning up database...");
+                    }
 
                     using (var db = new Data.MySQLContext(Logger))
                     {
@@ -102,23 +108,33 @@ namespace TagCleanup
                         {
                             sorted.Add(erroredFile, erroredFile);
 
-                            var mediaFile = db.MediaFiles.FirstOrDefault(mf => mf.FilePath == erroredFile);
-
-                            if (mediaFile != null)
+                            if (deleteFromDb)
                             {
-                                db.MediaFiles.Remove(mediaFile);
-                            }
+                                var mediaFile = db.MediaFiles.FirstOrDefault(mf => mf.FilePath == erroredFile);
 
-                            var albumPath = Path.GetDirectoryName(erroredFile);
-
-                            if (!processedAlbums.Contains(albumPath))
-                            {
-                                var mediaAlbum = db.Albums.FirstOrDefault(a => a.FolderPath == albumPath);
-
-                                if (mediaAlbum != null)
+                                if (mediaFile != null)
                                 {
-                                    db.Albums.Remove(mediaAlbum);
-                                    processedAlbums.Add(albumPath);
+                                    db.MediaFiles.Remove(mediaFile);
+                                }
+
+                                var albumPath = Path.GetDirectoryName(erroredFile);
+
+                                if (!processedAlbums.Contains(albumPath))
+                                {
+                                    var mediaAlbum = db.Albums.FirstOrDefault(a => a.FolderPath == albumPath);
+
+                                    if (mediaAlbum != null)
+                                    {
+                                        db.Albums.Remove(mediaAlbum);
+                                        processedAlbums.Add(albumPath);
+                                    }
+                                }
+
+                                processedFiles++;
+
+                                if (processedFiles % int.Parse(ConfigurationManager.AppSettings["ProcessUpdateCounter"] ?? "100") == 0)
+                                {
+                                    Logger.Info($"Processed {processedFiles} files...");
                                 }
                             }
                         }
@@ -126,6 +142,7 @@ namespace TagCleanup
                         db.SaveChanges();
                     }
 
+                    processedFiles = 0;
                     processedAlbums.Clear();
                     processedAlbums = null;
 
