@@ -236,6 +236,7 @@ namespace TagCleanup.Repository
 
             if (album != null)
             {
+                album.FolderPath = FolderPath;
                 album.Album = AlbumName;
                 album.AlbumArtist = AlbumArtist;
                 album.Discs = TotalDiscs;

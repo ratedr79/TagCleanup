@@ -136,6 +136,7 @@ namespace TagCleanup.Repository
 
             if (mediaFile != null)
             {
+                mediaFile.FilePath = FilePath;
                 mediaFile.Album = Album;
                 mediaFile.Artist = Artist;
                 mediaFile.AlbumArtist = AlbumArtist;

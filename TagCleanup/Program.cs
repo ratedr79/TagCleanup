@@ -93,9 +93,29 @@ namespace TagCleanup
 
                     SortedList<string, string> sorted = new SortedList<string, string>();
 
-                    foreach (var erroredFile in checker.TagErrorDictionary.Keys)
+                    using (var db = new Data.MySQLContext(Logger))
                     {
-                        sorted.Add(erroredFile, erroredFile);
+                        foreach (var erroredFile in checker.TagErrorDictionary.Keys)
+                        {
+                            sorted.Add(erroredFile, erroredFile);
+
+                            var mediaFile = db.MediaFiles.FirstOrDefault(mf => mf.FilePath == erroredFile);
+
+                            if (mediaFile != null)
+                            {
+                                db.MediaFiles.Remove(mediaFile);
+                            }
+
+                            var albumPath = Path.GetDirectoryName(erroredFile);
+                            var mediaAlbum = db.Albums.FirstOrDefault(a => a.FolderPath == albumPath);
+
+                            if (mediaAlbum != null)
+                            {
+                                db.Albums.Remove(mediaAlbum);
+                            }
+
+                            db.SaveChanges();
+                        }
                     }
 
                     foreach (var erroredFile in sorted.Keys)

@@ -35,6 +35,8 @@ namespace TagCleanup
         private static readonly string AlbumYearExceptionsFile = Path.Combine(Program.ExecutionPath, "XML", "AlbumYearExceptions.xml");
         private static readonly string AdditionalVariousArtistsAlbumFile = Path.Combine(Program.ExecutionPath, "XML", "AdditionalVariousArtistsAlbum.xml");
         private static readonly string ParallelThreads = ConfigurationManager.AppSettings["TagDataThreads"];
+        private static readonly bool ReportDiscNumberWithoutTotal = bool.Parse(ConfigurationManager.AppSettings["ReportDiscNumberWithoutTotal"] ?? "false");
+        private static readonly bool ReportBlankDiscNumber = bool.Parse(ConfigurationManager.AppSettings["ReportBlankDiscNumber"] ?? "false");
 
         public TagChecker(ILog logger)
         {
@@ -342,7 +344,7 @@ namespace TagCleanup
                     LogTagError(mediaFile, $"Tag title has invalid album artist. Album Artist: {mediaFile.AlbumArtist}");
                 }
 
-                if (mediaFile.ValidV2Tag && !string.IsNullOrEmpty(mediaFile.DiscNumber))
+                if (mediaFile.ValidV2Tag && !string.IsNullOrEmpty(mediaFile.DiscNumberAndCount))
                 {
                     var discNumberAndTotal = mediaFile.DiscNumberAndCount.Split('/');
 
@@ -353,23 +355,29 @@ namespace TagCleanup
                             LogTagError(mediaFile, $"Disc total tag does not match disc total of folder structure. Track details: {discNumberAndTotal[1]}; Album details: {album.BaseAlbum.Discs}");
                         }
                     }
-                    else
+                    else if (ReportDiscNumberWithoutTotal)
                     {
-                        if (discNumberAndTotal[0].StartsWith("0"))
-                        {
-                            LogTagError(mediaFile, $"Disc number tag is not properly formatted. Details: {discNumberAndTotal[0]}");
-                        }
-
-                        if (!int.TryParse(discNumberAndTotal[0], out int discNumber))
-                        {
-                            LogTagError(mediaFile, $"Disc number tag is not a number. Details: {discNumberAndTotal[0]}");
-                        }
-
-                        if (discNumberAndTotal[0] != album.BaseAlbum.Disc)
-                        {
-                            LogTagError(mediaFile, $"Disc number tag does not match disc number of folder structure. Track details: {discNumberAndTotal[0]}; Album details: {album.BaseAlbum.Disc}");
-                        }
+                        LogTagError(mediaFile, $"Disc total tag does not exist. Track details: {mediaFile.DiscNumberAndCount}");
                     }
+
+                    if (discNumberAndTotal[0].StartsWith("0"))
+                    {
+                        LogTagError(mediaFile, $"Disc number tag is not properly formatted. Details: {discNumberAndTotal[0]}");
+                    }
+
+                    if (!int.TryParse(discNumberAndTotal[0], out int discNumber))
+                    {
+                        LogTagError(mediaFile, $"Disc number tag is not a number. Details: {discNumberAndTotal[0]}");
+                    }
+
+                    if (discNumberAndTotal[0] != album.BaseAlbum.Disc)
+                    {
+                        LogTagError(mediaFile, $"Disc number tag does not match disc number of folder structure. Track details: {discNumberAndTotal[0]}; Album details: {album.BaseAlbum.Disc}");
+                    }
+                }
+                else if (mediaFile.ValidV2Tag && string.IsNullOrEmpty(mediaFile.DiscNumberAndCount) && ReportBlankDiscNumber)
+                {
+                    LogTagError(mediaFile, $"Track does not have a disc number and total set.");
                 }
 
                 if (mediaFile.ContainsOtherTags)
@@ -493,7 +501,6 @@ namespace TagCleanup
             name = name.Replace(": ", " - ");
             name = name.Replace(":", "");
             name = name.Replace("/", "-");
-            name = name.Replace("? ", " - ");
             name = name.Replace("?", "");
             name = name.Replace("\"", "");
             name = name.Replace("*", "");
