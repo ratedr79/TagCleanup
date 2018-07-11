@@ -91,6 +91,7 @@ namespace TagCleanup
                 {
                     Console.WriteLine("");
 
+                    List<string> processedAlbums = new List<string>();
                     SortedList<string, string> sorted = new SortedList<string, string>();
 
                     Logger.Info("Cleaning up database...");
@@ -109,16 +110,24 @@ namespace TagCleanup
                             }
 
                             var albumPath = Path.GetDirectoryName(erroredFile);
-                            var mediaAlbum = db.Albums.FirstOrDefault(a => a.FolderPath == albumPath);
 
-                            if (mediaAlbum != null)
+                            if (!processedAlbums.Contains(albumPath))
                             {
-                                db.Albums.Remove(mediaAlbum);
+                                var mediaAlbum = db.Albums.FirstOrDefault(a => a.FolderPath == albumPath);
+
+                                if (mediaAlbum != null)
+                                {
+                                    db.Albums.Remove(mediaAlbum);
+                                    processedAlbums.Add(albumPath);
+                                }
                             }
                         }
 
                         db.SaveChanges();
                     }
+
+                    processedAlbums.Clear();
+                    processedAlbums = null;
 
                     Logger.Info("Sorting tag errors...");
 
