@@ -93,6 +93,8 @@ namespace TagCleanup
 
                     SortedList<string, string> sorted = new SortedList<string, string>();
 
+                    Logger.Info("Cleaning up database...");
+
                     using (var db = new Data.MySQLContext(Logger))
                     {
                         foreach (var erroredFile in checker.TagErrorDictionary.Keys)
@@ -117,6 +119,8 @@ namespace TagCleanup
                             db.SaveChanges();
                         }
                     }
+
+                    Logger.Info("Sorting tag errors...");
 
                     foreach (var erroredFile in sorted.Keys)
                     {
