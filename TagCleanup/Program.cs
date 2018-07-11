@@ -115,9 +115,9 @@ namespace TagCleanup
                             {
                                 db.Albums.Remove(mediaAlbum);
                             }
-
-                            db.SaveChanges();
                         }
+
+                        db.SaveChanges();
                     }
 
                     Logger.Info("Sorting tag errors...");
