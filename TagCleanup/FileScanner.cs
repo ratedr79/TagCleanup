@@ -435,7 +435,7 @@ namespace TagCleanup
                 if (retry < 3)
                 {
                     retry++;
-                    Logger.Info($"Error processing file: {file.FullName}. Retrying {retry} of 3...");
+                    Logger.Info($"Error processing file: {file.FullName}. Error: '{ex.Message}'. Retrying {retry} of 3...");
                     ProcessFile(file, retry);
                 }
                 else
