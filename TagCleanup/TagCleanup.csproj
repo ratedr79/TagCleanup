@@ -64,9 +64,6 @@
     <Reference Include="Id3Lib">
       <HintPath>..\..\lib\id3lib\Mp3Lib\bin\Release\Id3Lib.dll</HintPath>
     </Reference>
-    <Reference Include="LiteDB, Version=4.1.4.0, Culture=neutral, PublicKeyToken=4ee40123013c9f27, processorArchitecture=MSIL">
-      <HintPath>..\packages\LiteDB.4.1.4\lib\net40\LiteDB.dll</HintPath>
-    </Reference>
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
     </Reference>
@@ -120,8 +117,6 @@
     <Compile Include="Data\FileData.cs" />
     <Compile Include="Data\ID3V2Definitions.cs" />
     <Compile Include="Data\Ignore.cs" />
-    <Compile Include="Data\liteDB\Collections\Albums.cs" />
-    <Compile Include="Data\liteDB\Collections\MediaFiles.cs" />
     <Compile Include="Data\SpecialtyAlbumFolders.cs" />
     <Compile Include="Data\MySQLContext.cs" />
     <Compile Include="Data\Tables\Scans.cs" />
