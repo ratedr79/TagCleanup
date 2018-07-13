@@ -21,7 +21,6 @@ namespace TagCleanup.Data
 
         ILog Logger { get; set; }
         public Data.Tables.Albums BaseAlbum { get; set; }
-        public List<int> MediaFileIDs { get; set; }
 
         public bool AllAlbumNamesMatch { get { return _allAlbumNamesMatch; } }
         public bool AllDiscNumbersMatch { get { return _allDiscNumbersMatch; } }
@@ -40,7 +39,6 @@ namespace TagCleanup.Data
         {
             Logger = logger;
             BaseAlbum = baseAlbum;
-            MediaFileIDs = new List<int>();
             db = dbContext;
 
             CheckFileDetails();
@@ -63,8 +61,6 @@ namespace TagCleanup.Data
 
                 var subFiles = db.MediaFiles.Where(mf => mf.FilePath.StartsWith(BaseAlbum.FolderPath));
                 var firstFile = subFiles.FirstOrDefault();
-
-                MediaFileIDs = subFiles.Select(mf => mf.ID).ToList();
 
                 if (firstFile != null)
                 {
