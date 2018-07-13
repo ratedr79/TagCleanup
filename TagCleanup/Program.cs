@@ -66,14 +66,14 @@ namespace TagCleanup
                 var actions = new FileScanner(Logger);
                 actions.ScanFolder(ConfigurationManager.AppSettings["MusicPath"], new string[] { "mp3" }, true, clearDatabase, resetDatabase);
 
-                Console.WriteLine($"Directories Scanned: {actions.DirectoriesProcessed.ToString()}");
-                Console.WriteLine($"Directories Skipped: {actions.DirectoriesSkipped.ToString()}");
-                Console.WriteLine($"Files Scanned: {actions.FilesProcessed.ToString()}");
-                Console.WriteLine($"Files Skipped: {actions.FilesSkipped.ToString()}");
-                Console.WriteLine($"Scan Completed: {actions.ScanComplete.ToString()}");
-                Console.WriteLine($"Scan Started: {actions.ScanStart.ToString()}");
-                Console.WriteLine($"Scan Ended: {actions.ScanEnd.ToString()}");
-                Console.WriteLine($"Number of Errors: {actions.Errors.Count.ToString()}");
+                Logger.Info($"Directories Scanned: {actions.DirectoriesProcessed.ToString()}");
+                Logger.Info($"Directories Skipped: {actions.DirectoriesSkipped.ToString()}");
+                Logger.Info($"Files Scanned: {actions.FilesProcessed.ToString()}");
+                Logger.Info($"Files Skipped: {actions.FilesSkipped.ToString()}");
+                Logger.Info($"Scan Completed: {actions.ScanComplete.ToString()}");
+                Logger.Info($"Scan Started: {actions.ScanStart.ToString()}");
+                Logger.Info($"Scan Ended: {actions.ScanEnd.ToString()}");
+                Logger.Info($"Number of Errors: {actions.Errors.Count.ToString()}");
             }
 
             if (checkForErrors)
@@ -187,7 +187,7 @@ namespace TagCleanup
         public static void LogAndWrite(StringBuilder sb, string line)
         {
             sb.AppendLine(line);
-            Console.WriteLine(line);
+            Logger.Info(line);
         }
     }
 }
